@@ -1,5 +1,5 @@
 import * as alt from 'alt-client';
-import { AthenaClient } from '../../../client/api/athena';
+import { AthenaClient } from '@AthenaClient/api/athena';
 import { ExampleWebViewEvents } from '../shared/viewInfo';
 
 let players: alt.Player[];

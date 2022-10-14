@@ -1,6 +1,6 @@
 # Athena Plugin - Example WebView
 
-A plugin with example usage with WebViews for the Athena Framework compatible with `3.9.0` of the [Athena Framework](https://athenaframework.com/).
+A plugin with example usage with WebViews for the Athena Framework compatible with `4.0.0` of the [Athena Framework](https://athenaframework.com/).
 
 ## Installation
 
@@ -16,12 +16,12 @@ cd src/core/plugins
 **SSH**
 
 ```
-git clone git@github.com:Stuyk/athena-plugin-example-webview.git
+git clone git@github.com:Athena-Roleplay-Framework/athena-plugin-example-webview.git
 ```
 
 **HTTPS**
 ```
-git clone https://github.com/Stuyk/athena-plugin-example-webview
+git clone https://github.com/Athena-Roleplay-Framework/athena-plugin-example-webview
 ```
 
 4. Start the Server
